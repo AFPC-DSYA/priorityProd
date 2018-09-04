@@ -1,1 +1,2 @@
 v4.4            Adds unit_type barchart, updates data table, and creates 'local' build process.
+v4.5            Adds new data elements (level and tos) to history page. Breaks out officer and enlisted in history page.
